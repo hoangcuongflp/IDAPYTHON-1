@@ -1,0 +1,108 @@
+[submodule "idaref"]
+	path = idaref
+	url = https://github.com/nologic/idaref.git
+[submodule "simplifire.idascope"]
+	path = simplifire.idascope
+	url = https://bitbucket.org/daniel_plohmann/simplifire.idascope.git
+[submodule "ida-sploiter"]
+	path = ida-sploiter
+	url = https://github.com/iphelix/ida-sploiter.git
+[submodule "ida-patcher"]
+	path = ida-patcher
+	url = https://github.com/iphelix/ida-patcher.git
+[submodule "DIE"]
+	path = DIE
+	url = https://github.com/ynvb/DIE.git
+[submodule "flare-ida"]
+	path = flare-ida
+	url = https://github.com/fireeye/flare-ida.git
+[submodule "funcap"]
+	path = funcap
+	url = https://github.com/deresz/funcap.git
+[submodule "HexRaysCodeXplorer"]
+	path = HexRaysCodeXplorer
+	url = https://github.com/REhints/HexRaysCodeXplorer.git
+[submodule "CrowdDetox"]
+	path = CrowdDetox
+	url = https://github.com/CrowdStrike/CrowdDetox.git
+[submodule "sk3wldbg"]
+	path = sk3wldbg
+	url = https://github.com/cseagle/sk3wldbg.git
+[submodule "IDAtropy"]
+	path = IDAtropy
+	url = https://github.com/danigargu/IDAtropy.git
+[submodule "LazyIDA"]
+	path = LazyIDA
+	url = https://github.com/L4ys/LazyIDA.git
+[submodule "keypatch"]
+	path = keypatch
+	url = https://github.com/keystone-engine/keypatch.git
+[submodule "idaemu"]
+	path = idaemu
+	url = https://github.com/36hours/idaemu.git
+[submodule "IDA-IOS-Toolkit"]
+	path = IDA-IOS-Toolkit
+	url = https://github.com/stefanesser/IDA-IOS-Toolkit.git
+[submodule "IDAPython"]
+	path = IDAPython
+	url = https://github.com/madsc13ntist/IDAPython.git
+[submodule "toolbag"]
+	path = toolbag
+	url = https://github.com/aaronportnoy/toolbag.git
+[submodule "idatools"]
+	path = idatools
+	url = https://github.com/nihilus/idatools.git
+[submodule "ida_ifl"]
+	path = ida_ifl
+	url = https://github.com/hasherezade/ida_ifl.git
+[submodule "IDA_Signsrch"]
+	path = IDA_Signsrch
+	url = https://github.com/nihilus/IDA_Signsrch.git
+[submodule "ret-sync"]
+	path = ret-sync
+	url = https://github.com/bootleg/ret-sync.git
+[submodule "SwiftDemang"]
+	path = SwiftDemang
+	url = https://github.com/tylerhalfpop/SwiftDemang.git
+[submodule "ScyllaHide"]
+	path = ScyllaHide
+	url = https://github.com/nihilus/ScyllaHide.git
+[submodule "IDASimulator"]
+	path = IDASimulator
+	url = https://github.com/nihilus/IDASimulator.git
+[submodule "IDA_ClassInformer"]
+	path = IDA_ClassInformer
+	url = https://github.com/nihilus/IDA_ClassInformer.git
+[submodule "hexrays_tools"]
+	path = hexrays_tools
+	url = https://github.com/nihilus/hexrays_tools.git
+[submodule "diaphora"]
+	path = diaphora
+	url = https://github.com/joxeankoret/diaphora.git
+[submodule "Kam1n0-Plugin-IDA-Pro"]
+	path = Kam1n0-Plugin-IDA-Pro
+	url = https://github.com/McGill-DMaS/Kam1n0-Plugin-IDA-Pro.git
+[submodule "Sark"]
+	path = Sark
+	url = https://github.com/tmr232/Sark.git
+[submodule "JARVIS"]
+	path = JARVIS
+	url = https://github.com/carlosgprado/JARVIS.git
+[submodule "reversing"]
+	path = reversing
+	url = https://github.com/arbor/reversing.git
+[submodule "func-renamer"]
+	path = func-renamer
+	url = https://bitbucket.org/Alexander_Hanel/func-renamer.git
+[submodule "ida-efiutils"]
+	path = ida-efiutils
+	url = https://github.com/snare/ida-efiutils.git
+[submodule "snowman"]
+	path = snowman
+	url = https://github.com/yegord/snowman.git
+[submodule "ipyida"]
+	path = ipyida
+	url = https://github.com/eset/ipyida.git
+[submodule "IDAEnhancements"]
+	path = IDAEnhancements
+	url = https://github.com/tylerhalfpop/IDAEnhancements

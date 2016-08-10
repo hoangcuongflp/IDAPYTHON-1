@@ -1,3 +1,7 @@
+# Random
+*.DS_Store
+*_PRIVATE_IDA
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
